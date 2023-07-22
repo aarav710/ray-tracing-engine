@@ -1,0 +1,5 @@
+if(EXISTS "/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/ray-tracing-engine[1]_tests.cmake")
+  include("/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/ray-tracing-engine[1]_tests.cmake")
+else()
+  add_test(ray-tracing-engine_NOT_BUILT ray-tracing-engine_NOT_BUILT)
+endif()

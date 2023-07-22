@@ -1,0 +1,21 @@
+# ninja log v5
+0	9	1683821089648690937	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	63e271d8b0c40c0e
+0	9	1683821089648690937	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	63e271d8b0c40c0e
+9	10270	1683821099910039286	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	3d89770384022374
+9	10270	1683821099910039286	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	3d89770384022374
+10270	10294	0	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	dd0111ccdba0a584
+10270	10294	0	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	dd0111ccdba0a584
+10294	10301	1683821099941697290	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	a95e2c9d563c48b3
+10294	10301	1683821099941697290	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	a95e2c9d563c48b3
+10302	10310	1683821099949737536	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	46beda4141f31efe
+10302	10310	1683821099949737536	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	46beda4141f31efe
+10310	10317	1683821099957407724	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	29f19ef571f6d717
+10310	10317	1683821099957407724	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	29f19ef571f6d717
+10317	10325	1683821099965128872	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	dc5deb8513c797c0
+10317	10325	1683821099965128872	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	dc5deb8513c797c0
+10325	10333	1683821099973383086	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	ee736b8ab0d3c67d
+10325	10333	1683821099973383086	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	ee736b8ab0d3c67d
+10333	10345	1683821099984247880	CMakeFiles/catch2-populate-complete	3d81519806cbff34
+10333	10345	1683821099984247880	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	3d81519806cbff34
+10333	10345	1683821099984247880	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	3d81519806cbff34
+10333	10345	1683821099984247880	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	3d81519806cbff34

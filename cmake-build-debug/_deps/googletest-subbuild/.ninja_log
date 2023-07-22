@@ -1,0 +1,21 @@
+# ninja log v5
+1047	1060	1683691932738592058	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	4c9cb03de3da5d7f
+14	1026	1683691932703929220	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	fd2ad6a73966754d
+0	14	1683691931691958524	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	89f408a8e64dd000
+1034	1047	1683691932725084010	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	fe00ceae2de5bffb
+1034	1047	1683691932725084010	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	fe00ceae2de5bffb
+1026	1034	1683691932712532429	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	513e7ee620e60817
+1061	1076	1683691932754050334	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	da0bfa409cbb14a7
+0	14	1683691931691958524	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	89f408a8e64dd000
+1061	1076	1683691932754050334	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	da0bfa409cbb14a7
+14	1026	1683691932703929220	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	fd2ad6a73966754d
+1102	1122	1683691932799954531	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	81996f0d16f284b2
+1089	1102	1683691932779966003	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	ad947579ffa957e9
+1026	1034	1683691932712532429	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	513e7ee620e60817
+1102	1122	1683691932799954531	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	81996f0d16f284b2
+1076	1089	1683691932766777916	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	30fb7dc88bff3a05
+1102	1122	1683691932799954531	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	81996f0d16f284b2
+1076	1089	1683691932766777916	/Users/aaravjain/Desktop/ray-tracing-engine/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	30fb7dc88bff3a05
+1047	1060	1683691932738592058	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	4c9cb03de3da5d7f
+1089	1102	1683691932779966003	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	ad947579ffa957e9
+1102	1122	1683691932799954531	CMakeFiles/googletest-populate-complete	81996f0d16f284b2
